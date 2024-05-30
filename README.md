@@ -10,6 +10,6 @@ I am a math and technology lover currently in my second year of Diplome d'Ingeni
 - 💬 Ask me about anything whether for a project, a job or to help with!
 - 📫 How to reach me: chavez@telecom-paris.fr
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZrems1ZHhocnVpanZscWU2YnZsbjg1aWpubWl5djEzYWk3Z29qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="Illustration" width="300">
-</div>
+</p>
