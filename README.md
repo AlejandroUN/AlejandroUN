@@ -4,11 +4,13 @@ Great to see you here! ![Profile views](https://komarev.com/ghpvc/?username=Cris
 
 ## About me
 
-My passion for learning and innovating has led me to explore image processing, models, and the application of artificial intelligence in the development of new electronic devices.
+I am a math and technology lover currently in my second year of Diplome d'Ingenieur at Télécom Paris. My dream is to be part of the artificial intelligence revolution by making a contribution in the future to this field.
 
 - 🌱 I’m learning about Data Science, Artificial Intelligence and Image Processing
 - 💬 Ask me about anything whether for a project, a job or to help with!
 - 📫 How to reach me: chavez@telecom-paris.fr
+
+  ![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZrems1ZHhocnVpanZscWU2YnZsbjg1aWpubWl5djEzYWk3Z29qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif))
 
 
 <!--
