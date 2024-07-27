@@ -4,7 +4,7 @@ Great to see you here! ![Profile views](https://komarev.com/ghpvc/?username=Cris
 
 ## About me
 
-I am a math and technology lover currently in my second year of Diplôme d'Ingénieur at Télécom Paris. My dream is to be part of the artificial intelligence revolution by making a contribution in the future to this field.
+I am a math and technology lover currently in dling the Master 2 (MSc) - Data Science from the Institut Polytechnique de Paris whose courses are teached by the École Polytechnique. My dream is to be part of the artificial intelligence revolution by making a contribution in the future to this field.
 
 - 🌱 I’m learning about Data Science, Artificial Intelligence, and Image Processing
 - 💬 Ask me about anything whether for a subject or to help with a project
