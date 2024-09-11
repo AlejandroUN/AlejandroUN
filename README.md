@@ -11,7 +11,7 @@ I am looking for a 6 month end-of-studies internship to start in March/April.
 - 🌱 I’m learning about Data Science, Artificial Intelligence, and Image Processing
 - 💬 Ask me about anything whether for a subject or to help with a project
 - 📫 How to reach me: cristian.chavez-becerra@polytechnique.edu
-
+- You can check my portfolio at: https://alejandroun.github.io/
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZrems1ZHhocnVpanZscWU2YnZsbjg1aWpubWl5djEzYWk3Z29qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="Illustration" width="300">
 </p>
