@@ -6,7 +6,6 @@ Great to see you here! ![Profile views](https://komarev.com/ghpvc/?username=Cris
 
 I am a math and technology lover currently enrolled in the Master 2 (MSc) - Data Science with a focus on Applied Mathematics and Statistics from the Institut Polytechnique de Paris whose courses are teached by the École Polytechnique. My dream is to be part of the artificial intelligence revolution by making a contribution in the future to this field.
 
-I am looking for a 6 month end-of-studies internship to start in March/April.
 
 - 🌱 I’m learning about Data Science, Artificial Intelligence, and Image Processing
 - 💬 Ask me about anything whether for a subject or to help with a project
